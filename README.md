@@ -3,7 +3,7 @@
 
 build docker image
 ```
-docker build -t zevi/simpleweb
+docker build -t zevi/simpleweb .
 ```
 
 docker run
